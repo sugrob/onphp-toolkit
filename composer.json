@@ -1,0 +1,23 @@
+{
+    "name": "sugrob/onphp-toolkit",
+    "description": "Possible candidates to add to the onPHP repository or just handy utilities",
+    "keywords": ["onphp", "tools", "utils"],
+    "homepage": "https://github.com/sugrob/onphp-toolkit",
+    "type": "library",
+    "license": "GPL-3.0",
+    "authors" : [
+      {
+        "name": "Dmitriy Snezhinskiy",
+        "email" : "sugrob2008@gmail.com"
+      }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "OnPHPToolkit\\": "src"
+        }
+    }
+}
