@@ -1,12 +1,11 @@
 <?php
 
-namespace OnPHPToolkit\Flow;
+namespace sugrob\OnPHPToolkit\Flow;
 
 use OnPHP\Core\Base\Prototyped;
 use OnPHP\Core\Form\Form;
 use OnPHP\Core\Form\FormUtils;
 use OnPHP\Main\Flow\HttpRequest;
-use OnPHP\Main\Flow\ModelAndView;
 
 class ConsistentEditCommand implements ConsistentCommand
 {

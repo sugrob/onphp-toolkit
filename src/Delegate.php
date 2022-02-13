@@ -1,6 +1,6 @@
 <?php
 
-namespace OnPHPToolkit;
+namespace sugrob\OnPHPToolkit;
 
 use OnPHP\Core\Base\Assert;
 

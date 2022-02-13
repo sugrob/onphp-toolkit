@@ -1,6 +1,6 @@
 <?php
 
-namespace OnPHPToolkit\Flow;
+namespace sugrob\OnPHPToolkit\Flow;
 
 use OnPHP\Core\Base\Prototyped;
 use OnPHP\Core\Form\Form;

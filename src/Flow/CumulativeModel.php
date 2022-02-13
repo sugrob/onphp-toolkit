@@ -1,6 +1,6 @@
 <?php
 
-namespace OnPHPToolkit\Flow;
+namespace sugrob\OnPHPToolkit\Flow;
 
 use OnPHP\Main\Flow\Model;
 use OnPHP\Main\Util\ArrayUtils;

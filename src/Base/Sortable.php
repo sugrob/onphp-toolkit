@@ -1,6 +1,6 @@
 <?php
 
-namespace OnPHPToolkit\Base\Sortable;
+namespace sugrob\OnPHPToolkit\Base\Sortable;
 
 interface Sortable
 {

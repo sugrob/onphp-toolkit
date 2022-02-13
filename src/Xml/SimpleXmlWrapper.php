@@ -1,6 +1,6 @@
 <?php
 
-namespace OnPHPToolkit\Xml;
+namespace sugrob\OnPHPToolkit\Xml;
 
 class SimpleXMLWrapper extends \SimpleXMLIterator {
 
