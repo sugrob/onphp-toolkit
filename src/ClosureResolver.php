@@ -1,6 +1,6 @@
 <?php
 
-namespace sugrob\OnPHPToolkit;
+namespace sugrob\OnPHP\Toolkit;
 
 use OnPHP\Core\Base\Assert;
 use OnPHP\Main\Util\ClassUtils;

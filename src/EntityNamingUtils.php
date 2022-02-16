@@ -1,6 +1,6 @@
 <?php
 
-namespace sugrob\OnPHPToolkit;
+namespace sugrob\OnPHP\Toolkit;
 
 class EntityNamingUtils
 {

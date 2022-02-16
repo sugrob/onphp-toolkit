@@ -1,6 +1,6 @@
 <?php
 
-namespace sugrob\OnPHPToolkit\Flow;
+namespace sugrob\OnPHP\Toolkit\Flow;
 
 use OnPHP\Core\Base\Enumeration;
 use OnPHP\Core\Exception\ClassNotFoundException;

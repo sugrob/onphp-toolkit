@@ -1,6 +1,6 @@
 <?php
 
-namespace sugrob\OnPHPToolkit\Flow;
+namespace sugrob\OnPHP\Toolkit\Flow;
 
 use OnPHP\Main\Flow\Model;
 

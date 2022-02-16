@@ -1,6 +1,6 @@
 <?php
 
-namespace sugrob\OnPHPToolkit\Utils;
+namespace sugrob\OnPHP\Toolkit\Utils;
 
 interface IHasher {
 	/**
